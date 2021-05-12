@@ -57,7 +57,7 @@ Weights :  [ -5.27  484.515]
 Number of each time algorithm updated model weights :  2421
 Number of epochs :  2421
 ```
-![Batch Perceptron Algorithm Prob 1](Images/Batch_Perceptron_Prob1.jpg)
+![Batch Perceptron Algorithm Prob 1](Images/Batch_Perceptron_Prob1.JPG)
 
 ---
 
@@ -68,7 +68,7 @@ Weights :  [-0.13070313 10.67917969]
 Number of each time algorithm updated model weights : 203
 Number of epochs : 67
 ```
-![Online Training Algorithm Prob 1](Images/Online_Algorithm_Prob1.jpg)
+![Online Training Algorithm Prob 1](Images/Online_Algorithm_Prob1.JPG)
 
 
 ### **Comments**
@@ -84,7 +84,7 @@ Weights :   [-64.02   32.355  63.52    0.145]
 Number of each time algorithm updated model weights : 6
 Number of epochs : 6
 ```
-![Batch Perceptron Algorithm Prob 4](Images/Batch_Perceptron_Prob4.jpg)
+![Batch Perceptron Algorithm Prob 4](Images/Batch_Perceptron_Prob4.JPG)
 
 ---
 
@@ -96,7 +96,7 @@ Number of each time algorithm updated model weights : 8
 Number of epochs : 4
 ```
 
-![Online Training Algorithm Prob 4](Images/Online_Algorithm_Prob4.jpg)
+![Online Training Algorithm Prob 4](Images/Online_Algorithm_Prob4.JPG)
 
 ### **Comments**
 ```
@@ -114,7 +114,7 @@ Weights :   [-0.31459554  0.68142681]
 Number of each time algorithm updated model weights : 3
 Number of epochs : 3
 ```
-![Batch Perceptron Algorithm Train](Images/Batch_MakeClass_Train.jpg)
+![Batch Perceptron Algorithm Train](Images/Batch_MakeClass_Train.JPG)
 
 ---
 
@@ -124,7 +124,7 @@ Number of epochs : 3
 Accuracy of the model is :  1.0
 ```
 
-![Batch Perceptron Algorithm Test](Images/Batch_MakeClass_Test.jpg)
+![Batch Perceptron Algorithm Test](Images/Batch_MakeClass_Test.JPG)
 
 ---
 
@@ -136,7 +136,7 @@ Weights :   [0.24610127 0.88789378]
 Number of each time algorithm updated model weights : 8
 Number of epochs : 3
 ```
-![Online Training Algorithm Train](Images/Online_MakeClass_Train.jpg)
+![Online Training Algorithm Train](Images/Online_MakeClass_Train.JPG)
 
 ---
 
@@ -146,7 +146,7 @@ Number of epochs : 3
 Accuracy of the model is :  1.0
 ```
 
-![Online Training Algorithm Test](Images/Online_MakeClass_Test.jpg)
+![Online Training Algorithm Test](Images/Online_MakeClass_Test.JPG)
 
 ---
 **NOTE**
