@@ -24,7 +24,7 @@ The process of changing weights values happens only once at each epoch after nor
 The output of this algorithm will be the final weights for each feature in the features vector with accuracy +75%.  
 ```
 
-![Batch Perceptron Algorithm](/Images/Batch_Pcode.jPG)
+![Batch Perceptron Algorithm](\Images\Batch_Pcode.jPG)
 
 ---
 
