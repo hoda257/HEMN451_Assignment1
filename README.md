@@ -3,7 +3,7 @@
 
 | Name | ID |
 | ------ | ----------- |
-| Hoda Hossam Munier   | 1170156 |
+| Hoda Hossam Monier   | 1170156 |
 | Mohammed Nader Ahmed | 1170366 |
 
 # **Description of both algorithms :**
